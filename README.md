@@ -24,7 +24,7 @@ You can find the link [here](https://www.arduino.cc/en/software/).
 2. Select **Adafruit ItsyBitsy M4 Express (SAMD51)**.
 3. Make sure your **Port** is selected under **Tools > Port**.
 
-### 5. Download tamagotchi.ino
+### 5. Clone the repo or download tamagotchi.ino
 Download it from the [Tamagotchi Git repository](YOUR_REPO_URL_HERE).
 
 ### 6. Upload your code
