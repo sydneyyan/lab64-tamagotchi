@@ -1,5 +1,5 @@
 ## Setup Instructions
-This repo is for the lab64 Tamagotchi Workshop, designed by Dani Algazi, Finn Hittson, and Sydney Yan
+This repo is for the lab64 Tamagotchi Workshop, designed by **Dani Algazi, Finn Hittson,** and **Sydney Yan**
 
 Welcome and we hope you have fun!
 
