@@ -3,7 +3,7 @@ This repo is for the lab64 Tamagotchi Workshop, designed by **Dani Algazi, Finn 
 
 Welcome and we hope you have fun!
 
-
+For a guide with picture, please see [here](https://docs.google.com/document/d/1xf30KD4tJjHDWuZkQOGdm4FQ10pTro_ldfPIj2dIo68/edit?usp=sharing)
 ### 1. Install the Arduino IDE
 You can find the link [here](https://www.arduino.cc/en/software/).
 
