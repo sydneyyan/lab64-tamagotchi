@@ -17,7 +17,7 @@ Adafruit_SSD1327 display(128, 128, &SPI, OLED_DC, OLED_RESET, OLED_CS);
 #define ANIMAL_WIDTH  128
 
 // ***************************************************************
-// TODO: You can exchange with your own bitmaps here!
+// OPTIONAL TODO: You can exchange with your own bitmaps here!
 // ***************************************************************
 
 // 'c1', 128x128px
@@ -940,7 +940,7 @@ const unsigned char epd_bitmap_r2 [] PROGMEM = {
 
 
 // *******************************************************************************************************************
-// TODO: Map your new frames to each button, and put them in the order you want them to cycle through
+// OPTIONAL TODO: Map your new frames to each button, and put them in the order you want them to cycle through
 // *******************************************************************************************************************
 
 const unsigned char* centerFrames[] = { epd_bitmap_c1, epd_bitmap_c2 };
@@ -948,7 +948,7 @@ const unsigned char* leftFrames[]   = {epd_bitmap_l2, epd_bitmap_l3};
 const unsigned char* rightFrames[]  = {	epd_bitmap_r1, epd_bitmap_r2}; 
 
 // *******************************************************************************************************************
-// TODO: If you add your own frames, make sure you add the amount of frames you want for each button animation
+// OPTIONAL TODO: If you add your own frames, make sure you add the amount of frames you want for each button animation
 // *******************************************************************************************************************
 
 // Total frames available for each cycle
