@@ -1,4 +1,8 @@
 ## Setup Instructions
+This repo is for the lab64 Tamagotchi Workshop, designed by Dani Algazi, Finn Hittson, and Sydney Yan
+
+Welcome and we hope you have fun!
+
 
 ### 1. Install the Arduino IDE
 You can find the link [here](https://www.arduino.cc/en/software/).
