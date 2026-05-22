@@ -17,7 +17,7 @@ You can find the link [here](https://www.arduino.cc/en/software/).
 
 ### 3. Download the correct libraries
 1. Go to the **Library Manager** in the Arduino IDE.
-2. Search for and install **Adafruit SSD1327**.
+2. Search for and install **Adafruit SSD1327**. Please install all if prompted!
 
 ### 4. Configure your board and port settings
 1. Go to **Tools > Board > Adafruit SAMD (32-bits ARM Cortex-M4) Boards**.
